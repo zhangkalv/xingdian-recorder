@@ -20,7 +20,7 @@
 
 ## 下载与安装
 
-前往 **Releases** 下载 `星点录屏_安装版.exe`（约 150 MB），双击运行安装向导：
+从官方稳定直链（永久不变）下载完整安装版：[星点录屏安装包.exe](https://api.siyushiji.com/fingertip/packages/星点录屏安装包.exe)（约 150 MB），双击运行安装向导；也可从 **Releases** 下载 `xingdian-recorder-setup.exe`：
 
 - 默认安装到 `D:\星点录屏`，**不会装进 `C:\Program Files`**，不需要管理员权限；
 - 自动创建桌面图标、开始菜单项与卸载入口；
